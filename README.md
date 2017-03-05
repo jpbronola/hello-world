@@ -20,8 +20,10 @@
 
 <div class="registration">
 <form>
-Email<input type="text" name="Email"> <br>
-Password<input type="text" name="password"> <br>
+Email:<br> 
+<input type="text" name="Email"><br>
+Password:
+<br> <input type="text" name="password">
 </form>
 </div>
 
