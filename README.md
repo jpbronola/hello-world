@@ -15,13 +15,15 @@
 <p> Alaska, northwest of Canada, is the largest and most sparsely populated U.S. state. It's known for its diverse terrain of open spaces, mountains and forests, with abundant wildlife and many small towns. It’s a destination for outdoor activities like skiing, mountain biking and kayaking. Massive Denali National Park is home to Denali (formerly called Mount McKinley), North America’s highest peak</p>
 </div>
 
-<div class="registration">
 
 <h2> Register Here </h2>
 
-
+<div class="registration">
+<form>
+Email<input type="text" name="Email"> <br>
+Password<input type="text" name="password"> <br>
+</form>
 </div>
-
 
 
 </body>
